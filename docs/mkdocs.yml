@@ -1,0 +1,16 @@
+site_name: EpgManager
+site_url: http://epgmanager.r6e.ru
+site_author: Astamur Ladariya
+
+# Repository
+repo_name: EpgManager
+repo_url: https://github.com/reques6e/EpgManager
+edit_uri: edit/master/docs
+docs_dir: docs
+
+plugins:
+    - awesome-pages
+    - search
+
+theme:
+  name: 'material'
