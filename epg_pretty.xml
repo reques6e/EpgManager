@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<tv>
+  <channel id="1.tv_systema_1">
+    <display-name>Система 1</display-name>
+    <icon src="https://example.com/channel1.png"/>
+  </channel>
+  <channel id="2.tv_systema_2">
+    <display-name>Система 2</display-name>
+    <icon src="https://example.com/channel2.png"/>
+  </channel>
+  <programme start="20240817120000 +0000" stop="20240817130000 +0000" channel="1.tv_systema_1">
+    <title>тест</title>
+    <desc>Информация</desc>
+    <category>Новости</category>
+  </programme>
+  <programme start="20240817120000 +0000" stop="20240817130000 +0000" channel="2.tv_systema_2">
+    <title>Новости</title>
+    <desc>Информация</desc>
+    <category>Новости</category>
+  </programme>
+</tv>
